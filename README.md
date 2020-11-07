@@ -10,7 +10,7 @@ explained in (https://github.com/freqtrade/freqtrade) (https://thenextweb.com/sy
 
 Run the interactive program with:
 
-$python setup.py
+$python maintrade.py
 
 The the results will be created in the same folder in .txt
 
